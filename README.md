@@ -1,2 +1,3 @@
 # hello-world
-my first repository - understanding GitHub
+my first repository.
+ok... so what happens now
